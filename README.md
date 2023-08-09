@@ -2,8 +2,10 @@
 
 Table of Contents:
 
-Introduction \n
+Introduction
+
 Features
+
 Installation
 Usage
 File Structure
