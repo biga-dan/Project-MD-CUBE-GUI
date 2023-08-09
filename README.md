@@ -1,10 +1,8 @@
 # Project-MD-CUBE-GUI-Prototype
 
 Table of Contents:
-
-Introduction
-
-Features
+Introduction //
+Features //
 
 Installation
 Usage
