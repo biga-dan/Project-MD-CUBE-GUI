@@ -16,7 +16,6 @@ Dependencies
 
 Contributing
 
-License
 
 Introduction
 
@@ -58,7 +57,7 @@ Launch the application by running it from Qt Creator.
 
 Use the various GUI elements to navigate through the different functionalities: file handling, editing, and more.
 
-Load MD-CUBE input files, modify parameters, and manage simulation settings through the intuitive interface.
+Load MD-CUBE input files, modify parameters and manage simulation settings through the intuitive interface.
 
 
 File Structure
@@ -81,9 +80,5 @@ Contributing
 
 Contributions are welcome! If you find issues or have feature suggestions, please feel free to open an issue or create a pull request.
 
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 By implementing this MD-CUBE GUI Prototype, we aim to empower researchers with an accessible and user-friendly interface to leverage the potential of MD simulations. Feel free to explore the code, contribute, and make use of this tool for your scientific endeavors.
